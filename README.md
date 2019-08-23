@@ -8,4 +8,4 @@ My code uses global constants that I could place inside functions but I felt tha
 so small, with only 1 person contributing, using global constants would be acceptable because
 there are not too many variables to begin with, and this project was not very complex.
 
-If you dont' have pygame or python, just run the .exe file
+You will need python and pygame for this to work
