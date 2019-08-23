@@ -7,3 +7,5 @@ have the luxury of creating multiple files. All the other files are pictures, mu
 My code uses global constants that I could place inside functions but I felt that in a project
 so small, with only 1 person contributing, using global constants would be acceptable because
 there are not too many variables to begin with, and this project was not very complex.
+
+If you dont' have pygame or python, just run the .exe file
