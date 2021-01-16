@@ -9,3 +9,5 @@ so small, with only 1 person contributing, using global constants would be accep
 there are not too many variables to begin with, and this project was not very complex.
 
 You will need python and pygame for this to work
+
+Note: Most art ais not mine!
